@@ -12,7 +12,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 ## Binary downloads
 
 * macOS \
-  [64-bit](https://drive.google.com/open?id=1oQfcN93aBFuAd86SovgtvgUHtm6Drs_X)
+  [64-bit](https://drive.google.com/file/d/1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB/view?usp=sharing)
 * Linux \
   [64-bit](downloads/linux/64/awsdig.tgz)
 * Windows \
