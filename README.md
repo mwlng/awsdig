@@ -12,7 +12,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 ## Binary downloads
 
 * macOS \
-  [64-bit](https://drive.google.com/file/d/1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB/view?usp=sharing)
+  [64-bit](https://drive.google.com/uc?export=download&id=1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB)
 * Linux \
   [64-bit](downloads/linux/64/awsdig.tgz)
 * Windows \
@@ -27,7 +27,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
    > $ cd awsdig \
    > $ chown +x awsdig
 
-   For Windows, reference to Winodws manual. 
+   For Windows, reference to Windows command manual correspondingly.
 3. Directory layout
     
        awsdig/
@@ -40,7 +40,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
     All plugins should have 'plugin' file extension, and should be put inside cloud provider folder(ie: aws) which is under plugings directory.
 4. Run "./awsdig help" to print usage and help messages
 
-Have fun and enjoy!!!
+Have fun and enjoy !!!
 
 -----
 Note: This project is heavily developing, No PRs will be accepted at this moment.
