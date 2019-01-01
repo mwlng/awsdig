@@ -4,8 +4,6 @@
 
 awsdig is an interactive command line tool for people to dig into AWS resources more easily than using AWS web console. 
 
-Enjoy!!!
-
 ## Prerequisite
 It requires AWS account and AWS CLI credentials to be setup on your computer.
 
@@ -41,6 +39,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
                 └── iam.plugin
     All plugins should have 'plugin' file extension, and should be put inside cloud provider folder(ie: aws) which is under plugings directory.
 4. Run "./awsdig help" to print usage and help messages
+
+Have fun and enjoy!!!
 
 -----
 Note: This project is heavily developing, No PRs will be accepted at this moment.
