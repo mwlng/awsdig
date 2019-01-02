@@ -8,6 +8,7 @@ awsdig is an interactive command line tool for people to dig into AWS resources 
 It requires AWS account, and AWS CLI credentials to be setup on your computer.
 
 Use below link for first time setup or details
+
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 
 ## Binary downloads
