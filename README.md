@@ -5,8 +5,9 @@
 awsdig is an interactive command line tool for people to dig into AWS resources more easily than using AWS web console. 
 
 ## Prerequisite
-It requires AWS account and AWS CLI credentials to be setup on your computer.
+It requires AWS account, and AWS CLI credentials to be setup on your computer.
 
+Use below link for first time setup or details
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 
 ## Binary downloads
@@ -14,9 +15,9 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 * macOS \
   [64-bit](https://drive.google.com/uc?export=download&id=1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB)
 * Linux \
-  [64-bit](downloads/linux/64/awsdig.tgz)
+  [64-bit](https://drive.google.com/uc?export=download&id=1JesO6Z0yy1Huit8z02dCq0txkvT4FKvv)
 * Windows \
-  [64-bit](donwloads/win/65/awsdig.zip)
+  [Under implementation]
 
 ## Installation
 1. Use the above links to download correct version of awsdig binary for your OS.
@@ -27,7 +28,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
    > $ cd awsdig \
    > $ chown +x awsdig
 
-   For Windows, reference to Windows command manual correspondingly.
+   For Windows, refer to Windows command manual correspondingly.
 3. Directory layout
     
        awsdig/
