@@ -16,7 +16,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 * macOS \
   [64-bit](https://drive.google.com/uc?export=download&id=1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB)
 * Linux \
-  [64-bit](https://drive.google.com/uc?export=download&id=1JesO6Z0yy1Huit8z02dCq0txkvT4FKvv)
+  [64-bit](https://drive.google.com/uc?export=download&id=1h1QfVWkgJry7lJO_QnaTTxh2oAgsl7Ne)
 * Windows \
   [Under implementation]
 
