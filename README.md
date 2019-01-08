@@ -57,7 +57,8 @@ Directory layout
                 ├── emr.plugin
                 ├── iam.plugin
                 └── ...
-    All plugins should have 'plugin' file extension, and should be put inside cloud provider folder(ie: aws) which is under plugings directory.
+
+All plugins should have 'plugin' file extension, and should be put inside cloud provider folder(ie: aws) which is under plugings directory.
 
 ## Usage
 
