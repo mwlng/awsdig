@@ -30,8 +30,23 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
    > $ chown +x awsdig
 
    For Windows, refer to Windows command manual correspondingly.
-3. Directory layout
-    
+3. Run "./awsdig help" to print usage and help messages
+
+## Plugins
+
+Download links
+* macOS \
+  [ami](https://drive.google.com/uc?export=download&id=17Jp9vlhhDki6_yNgXKMBHvMVeEcWeJ7Q)
+  [emr](https://drive.google.com/uc?export=download&id=15foHYERbIGbU9s-vEm1DBjJxwSP0dpDz)
+  [iam](https://drive.google.com/uc?export=download&id=1Dm1b3SOfRJsUZJYL1CyPVm8kuTaYEe98)
+
+* Linux \
+  [ami](https://drive.google.com/uc?export=download&id=)
+  [emr](https://drive.google.com/uc?export=download&id=)
+  [iam](https://drive.google.com/uc?export=download&id=)
+
+Directory layout
+
        awsdig/
         ├── awsdig
         └── plugins
@@ -40,7 +55,6 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
                 ├── emr.plugin
                 └── iam.plugin
     All plugins should have 'plugin' file extension, and should be put inside cloud provider folder(ie: aws) which is under plugings directory.
-4. Run "./awsdig help" to print usage and help messages
 
 ## Usage
 
@@ -57,7 +71,6 @@ Others:
 
     tab     For command auto-completion
      |      Pipe command's output to external programs or shell commands
-
 
 
 Have fun and enjoy !!!
