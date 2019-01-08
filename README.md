@@ -53,8 +53,10 @@ Directory layout
         └── plugins
             └── aws
                 ├── ami.plugin
+                ├── cloudformation.plugin
                 ├── emr.plugin
-                └── iam.plugin
+                ├── iam.plugin
+                └── ...
     All plugins should have 'plugin' file extension, and should be put inside cloud provider folder(ie: aws) which is under plugings directory.
 
 ## Usage
