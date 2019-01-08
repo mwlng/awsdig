@@ -29,7 +29,6 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
    > $ cd awsdig \
    > $ chown +x awsdig
 
-   For Windows, refer to Windows command manual correspondingly.
 3. Run "./awsdig help" to print usage and help messages
 
 ## Plugins
@@ -37,13 +36,15 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 Download links
 * macOS \
   [ami](https://drive.google.com/uc?export=download&id=17Jp9vlhhDki6_yNgXKMBHvMVeEcWeJ7Q)
+  [cloudformation](https://drive.google.com/uc?export=download&id=1jElLafFCoLvjKL1WI7lHkyfXQGR6B4y8)
   [emr](https://drive.google.com/uc?export=download&id=15foHYERbIGbU9s-vEm1DBjJxwSP0dpDz)
   [iam](https://drive.google.com/uc?export=download&id=1Dm1b3SOfRJsUZJYL1CyPVm8kuTaYEe98)
 
 * Linux \
-  [ami](https://drive.google.com/uc?export=download&id=)
-  [emr](https://drive.google.com/uc?export=download&id=)
-  [iam](https://drive.google.com/uc?export=download&id=)
+  [ami](https://drive.google.com/uc?export=download&id=1xwPu9ATGvwzSxu_nPVc-MOMV3XanPiDw)
+  [cloudformation](https://drive.google.com/uc?export=download&id=1jUdv_WrmCFniwU9h-m_TvAB0W2WUTLWC)
+  [emr](https://drive.google.com/uc?export=download&id=1ltZxRLPtZOS_ra_W2RWuBNvTH0mtUZiF)
+  [iam](https://drive.google.com/uc?export=download&id=1CnA93jvkiHcHJdKw5f1Ik_uqYW9wmak6)
 
 Directory layout
 
