@@ -39,12 +39,14 @@ Download links
   [cloudformation](https://drive.google.com/uc?export=download&id=1jElLafFCoLvjKL1WI7lHkyfXQGR6B4y8)
   [emr](https://drive.google.com/uc?export=download&id=15foHYERbIGbU9s-vEm1DBjJxwSP0dpDz)
   [iam](https://drive.google.com/uc?export=download&id=1Dm1b3SOfRJsUZJYL1CyPVm8kuTaYEe98)
+  [route53](https://drive.google.com/uc?export=download&id=11XKVIcfq09oELh6WVP_fZaXz-V1QhC4I)
 
 * Linux \
   [ami](https://drive.google.com/uc?export=download&id=1xwPu9ATGvwzSxu_nPVc-MOMV3XanPiDw)
   [cloudformation](https://drive.google.com/uc?export=download&id=1jUdv_WrmCFniwU9h-m_TvAB0W2WUTLWC)
   [emr](https://drive.google.com/uc?export=download&id=1ltZxRLPtZOS_ra_W2RWuBNvTH0mtUZiF)
   [iam](https://drive.google.com/uc?export=download&id=1CnA93jvkiHcHJdKw5f1Ik_uqYW9wmak6)
+  [route53](https://drive.google.com/uc?export=download&id=1CnA93jvkiHcHJdKw5f1Ik_uqYW9wmak6)
 
 Directory layout
 
