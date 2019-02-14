@@ -55,6 +55,7 @@ Currently, awsdig has impelemented plugins for below AWS resources.
 * ec2-instances
 * ecs
 * emr
+* glue
 * iam
 * route53
 
