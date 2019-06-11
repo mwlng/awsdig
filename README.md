@@ -17,8 +17,6 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
   [64-bit](https://drive.google.com/uc?export=download&id=1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB)
 * Linux \
   [64-bit](https://drive.google.com/uc?export=download&id=1h1QfVWkgJry7lJO_QnaTTxh2oAgsl7Ne)
-* Windows \
-  [Under implementation]
 
 ## Installation
 1. Use the above links to download correct version of awsdig binary for your OS.
@@ -43,7 +41,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
                 └── ...
 
 
-3. Run "./awsdig help" to print usage and help messages
+3. Run "./awsdig help" to print help and usage messages
 
 ## Plugins
 
@@ -53,13 +51,14 @@ Currently, awsdig has impelemented plugins for below AWS resources.
 * autoscaling
 * cloudformation
 * ec2-instances
+* ecr
 * ecs
 * emr
 * glue
 * iam
 * route53
 
-You can download the source code from https://github.com/mwlng/awsdig-plugins 
+You can download plugins' source code from https://github.com/mwlng/awsdig-plugins 
 
 All plugins should have 'plugin' file extension, and should be put inside cloud provider folder(ie: aws) which is under plugings directory.
 
