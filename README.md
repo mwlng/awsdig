@@ -14,7 +14,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 ## Binary downloads
 
 * macOS \
-  [64-bit](https://drive.google.com/uc?export=download&id=1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB)
+  [64-bit](https://drive.google.com/uc?export=download&id=1AOs1XXA-8ZNC1VbH4veV4WaTKl8OICNZ)
+  [MD5]   (https://drive.google.com/uc?export=download&id=1TwR4IbMpOD5u1X3-zy7Ps1FrXtxu1z4Y)
 * Linux \
   [64-bit](https://drive.google.com/uc?export=download&id=1h1QfVWkgJry7lJO_QnaTTxh2oAgsl7Ne)
 
