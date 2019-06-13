@@ -15,9 +15,10 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 
 * macOS \
   [64-bit](https://drive.google.com/uc?export=download&id=1AOs1XXA-8ZNC1VbH4veV4WaTKl8OICNZ)
-  |[MD5](https://drive.google.com/uc?export=download&id=1TwR4IbMpOD5u1X3-zy7Ps1FrXtxu1z4Y)
+  | [MD5](https://drive.google.com/uc?export=download&id=1TwR4IbMpOD5u1X3-zy7Ps1FrXtxu1z4Y)
+
 * Linux \
-  [64-bit](https://drive.google.com/uc?export=download&id=1h1QfVWkgJry7lJO_QnaTTxh2oAgsl7Ne)
+  [64-bit](https://drive.google.com/uc?export=download&id=1iY4YVbcFntHRaJ6byaccdAEw-TddEHKe) | [MD5](https://drive.google.com/uc?export=download&id=1i8JVFEogrDkwU6wU9tm-VIxWAVBc_UWL)
 
 ## Installation
 1. Use the above links to download correct version of awsdig binary for your OS.
